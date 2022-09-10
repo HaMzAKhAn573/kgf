@@ -1,0 +1,7 @@
+rm -rf kgf
+
+git clone https://github.com/HaMzAKhAn573/kgf.git
+
+cd kgf
+
+python kgf.py
